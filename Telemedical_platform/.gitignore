@@ -1,0 +1,15 @@
+# Maven
+target/
+**/target/
+
+# Maven local repository/cache
+.m2/
+**/.m2/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
